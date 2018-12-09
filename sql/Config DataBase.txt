@@ -1,0 +1,8 @@
+url:
+jdbc:postgresql://ec2-54-204-36-249.compute-1.amazonaws.com:5432/d53ot20ljbsoju?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
+
+username:
+tzmihogeirjrbm
+
+password:
+1b88ef0c4bb3f2de7c6c882530b60b82bd1489b33bebb4176730a05ac6e03e53
