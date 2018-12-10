@@ -1,5 +1,5 @@
 # PROYECTO TERCIO 2 AREM Currency Converter 
- Aplicación para la consulta y búsqueda de tasas de cambio y para la conversión de monedas. 
+ AplicaciÃ³n para la consulta y bÃºsqueda de tasas de cambio y para la conversiÃ³n de monedas. 
  ## Link del aplicativo funcional montado en AMAZON s3
  [Link App AWS S3](http://appeasybank.s3-website-us-west-2.amazonaws.com/lite/login.html)
  ## Link del Articulo del proyecto
@@ -11,6 +11,6 @@
     -Amazon Web Services AWS (Funciones Lambda, API Gateway) para la ruta final del usuario
    
  ## Autor
- * **ANDRES DAVID VASQUEZ IBAÑEZ** - *Initial work* - [VASHIGO](https://github.com/vashigo)
+ * **ANDRES DAVID VASQUEZ IBAÃ‘EZ** - *Initial work* - [VASHIGO](https://github.com/vashigo)
  ## Licencia
  This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
